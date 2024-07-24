@@ -5,8 +5,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.0",
-        "ext-json": "*",
-        "illuminate/support": "11.0"
+        "ext-json": "*"
     },
     "autoload": {
         "psr-4": {
